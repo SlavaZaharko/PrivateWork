@@ -1,0 +1,15 @@
+D:\PrivateWork\PrivateWork\PrivateWork\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\PrivateWork\PrivateWork\PrivateWork\bin\Debug\netcoreapp3.1\appsettings.json
+D:\PrivateWork\PrivateWork\PrivateWork\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\PrivateWork\PrivateWork\PrivateWork\bin\Debug\netcoreapp3.1\PrivateWork.exe
+D:\PrivateWork\PrivateWork\PrivateWork\obj\Debug\netcoreapp3.1\PrivateWork.csprojAssemblyReference.cache
+D:\PrivateWork\PrivateWork\PrivateWork\obj\Debug\netcoreapp3.1\PrivateWork.AssemblyInfoInputs.cache
+D:\PrivateWork\PrivateWork\PrivateWork\obj\Debug\netcoreapp3.1\PrivateWork.AssemblyInfo.cs
+D:\PrivateWork\PrivateWork\PrivateWork\obj\Debug\netcoreapp3.1\PrivateWork.RazorTargetAssemblyInfo.cache
+D:\PrivateWork\PrivateWork\PrivateWork\obj\Debug\netcoreapp3.1\staticwebassets\PrivateWork.StaticWebAssets.Manifest.cache
+D:\PrivateWork\PrivateWork\PrivateWork\obj\Debug\netcoreapp3.1\staticwebassets\PrivateWork.StaticWebAssets.xml
+D:\PrivateWork\PrivateWork\PrivateWork\bin\Debug\netcoreapp3.1\Autofac.dll
+D:\PrivateWork\PrivateWork\PrivateWork\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+D:\PrivateWork\PrivateWork\PrivateWork\obj\Debug\netcoreapp3.1\PrivateWork.csproj.CopyComplete
+D:\PrivateWork\PrivateWork\PrivateWork\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\PrivateWork\PrivateWork\PrivateWork\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
